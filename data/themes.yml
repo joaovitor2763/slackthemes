@@ -163,3 +163,5 @@
 - { colors: '#138724,#1B5E48,#db2e3f,#FFFFFF,#2D9A48,#FFFFFF,#1B5E48,#DB2E3F', name: 'Christmas'}
 - { colors: '#033313,#077a07,#02ad44,#FFFFFF,#076e27,#FFFFFF,#94E864,#78AF8F', name: 'Forest'}
 - { colors: '#263238,#263238,#263238,#64fcda,#546e7a,#eceff1,#40c4ff,#ff5252', name: 'Material'}
+- { colors: '#2C3E50,#22313F,#E87E04,#FFFFFF,#FFFFFF,#EEEEEE,#87D37C,#E87E04', name: 'Summer Night'}
+
